@@ -1,0 +1,26 @@
+README.md
+health-management-system/
+│
+├── README.md
+├── requirements.txt
+├── main.py
+├── data/
+│   ├── patients.json
+│   └── doctors.json
+├── modules/
+│   ├── patient.py
+│   ├── doctor.py
+│   └── utils.py
+# Health Management System
+
+A simple Python-based Health Management System for managing patients and doctors.
+
+## Features
+- Add/View/Delete patients
+- Add/View/Delete doctors
+- Save data to JSON files
+
+## Requirements
+- Python 3.x
+
+## How to Run
